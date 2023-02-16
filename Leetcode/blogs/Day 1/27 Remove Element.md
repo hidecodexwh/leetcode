@@ -1,8 +1,8 @@
 ##Day 1##
 
-####### [27. Remove Element](https://leetcode.cn/problems/remove-element/)###
+### ###[27. Remove Element](https://leetcode.cn/problems/remove-element/)###
 
-关键信息：双指针（快慢指针）
+关键信息：双指针（快慢指针，从同一个起点开始）
 
 关键信息2：fast指针遍历一次。
 
