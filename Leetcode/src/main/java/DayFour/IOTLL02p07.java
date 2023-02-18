@@ -2,6 +2,8 @@ package DayFour;
 
 public class IOTLL02p07 {
     public static void main(String[] args) {
+        IOTLL02p07 iotll02p07 = new IOTLL02p07();
+        
 
     }
 
